@@ -1,0 +1,5 @@
+board\game\GameBoard.class
+board\game\QuestionProvider.class
+board\game\MonopolyBoard.class
+board\game\Tile.class
+board\game\TileType.class
